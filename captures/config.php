@@ -1,7 +1,7 @@
 <?php
 
 return array(
-    'secure_key' => 'your_password',
+    'secure_key' => 'Ding-Ding-Uploader',
 
     'output_url' => 'http://yourdomain.com/captures/',
 
@@ -9,7 +9,7 @@ return array(
 
     'allowed_ips' => array(),
 
-    'page_title' => 'page_title',
+    'page_title' => 'Ding-Ding-Uploader',
 
-    'heading_text' => 'heading_text',
+    'heading_text' => 'My Personal Uploader',
 );
